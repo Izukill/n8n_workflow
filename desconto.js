@@ -1,5 +1,5 @@
 function calcularDesconto(preco, categoria) {
-    return preco * 0.20;
+    return preco * 0.25;
 }
 
 module.exports = calcularDesconto;
